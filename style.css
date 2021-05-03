@@ -1,0 +1,53 @@
+video
+{
+background-image: url('game_console.png');
+background-size:cover;
+background-position:center;
+padding:25px;
+border-radius:35px;
+}
+
+#header_div
+{
+    width:100%;
+    
+    font-size: 25px;;
+}
+#instruction_btn
+{
+    font-size: 20px;;
+    border:2px white solid;
+    float:right;
+}
+#img_mario
+{
+    width:100%;
+    height:50%;
+}
+#play_game
+{
+font-size:20px;
+
+}
+#game_playing
+{
+    font-size:20px;
+    
+}
+#footer
+{
+    position:fixed;
+    position: relative;
+    margin:0;
+    background-color:white;
+}
+.instruction_image
+{
+  
+    width:40%;
+    height:40%;
+}
+#instruction_text
+{
+    font-size:35px;
+}
